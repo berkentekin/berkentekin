@@ -11,7 +11,9 @@ I'm also an amateur photographer. You can follow me on [Instagram](https://www.i
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white!)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Berken's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkentekin)](https://github.com/anuraghazra/github-readme-stats)
+[![Berken's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkentekin&include_all_commits=true&show_icons=true&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkentekin&layout=compact&exclude_repo=K-R2_Solutions,sicp-solutions,dotfiles&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **berkentekin/berkentekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
