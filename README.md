@@ -4,7 +4,7 @@ Welcome to my profile! I'm an amateur programmer who attends to "Middle East Tec
 
 I'm currently honing my C skills with K&R.
 
-I'm also an amateur photographer. You can follow me on ![Instagram](https://www.instagram.com/berken.tekin/).
+I'm also an amateur photographer. You can follow me on [Instagram](https://www.instagram.com/berken.tekin/).
 
 #### Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
