@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome to my profile! I'm an amateur programmer who attends to "Middle East Technical University" and desires to become a Computer Scientist.
+[![Berken's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkentekin)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **berkentekin/berkentekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
