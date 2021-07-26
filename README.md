@@ -6,7 +6,7 @@ I've been using Linux since 2009 and it's a big reason I decided to become a com
 
 I'm currently honing my C skills with K&R.
 
-I'm also an amateur photographer. You can follow me on [Instagram](https://www.instagram.com/berken.tekin/).
+I'm also an amateur photographer. You can follow me on [Instagram/](https://www.instagram.com/berken.tekin/)
 
 #### Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
