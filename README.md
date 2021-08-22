@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile! I'm an amateur programmer who attends to "Middle East Technical University" and desires to become a Computer Scientist.
+Welcome to my profile! I'm an amateur programmer who attends to TU Delft and desires to become a Computer Scientist.
 
 I've been using Linux since 2009 and it's one of the major reasons I decided to become a computer scientist. In the future I can see myself developing operating systems.
 
