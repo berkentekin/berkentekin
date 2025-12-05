@@ -2,9 +2,7 @@
 
 Welcome to my profile! I'm an amateur programmer who attends to TU Delft and desires to become a Computer Scientist.
 
-I've been using Linux since 2009 and it's one of the major reasons I decided to become a computer scientist. In the future I can see myself developing operating systems.
-
-I'm currently honing my C skills with K&R. I may also take a look at elisp in the near future, I'm thinking of switching to Emacs from Vim.
+I am currently specializing in Bioinformatics and Advanced Machine Learning.
 
 I'm also an amateur photographer. You can follow me on [Instagram.](https://www.instagram.com/berken.tekin/)
 
